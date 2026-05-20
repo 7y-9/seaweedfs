@@ -1,0 +1,21 @@
+weed/shell/command_collection_mark.go
+  s_0c6762bc9d02aa::t_e3b8c4bf1a5afb 1-166
+weed/shell/command_collection_mark_test.go
+  s_0c6762bc9d02aa::t_23e35020f2ed13 1-148
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "50c2bbf94cd8e2579067eec36ba4e27f2e008247",
+  "prompts": {},
+  "sessions": {
+    "s_0c6762bc9d02aa": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e4549-1fc5-71e1-bf4d-b91b0bea8693",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
