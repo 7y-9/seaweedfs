@@ -1,0 +1,21 @@
+weed/query/engine/parse_errors_test.go
+  s_88744486217ece::t_c8d65bddd40bd1 1-40
+weed/query/engine/engine.go
+  s_88744486217ece::t_8d8fd88df0932c 325-327,565-568,598-602
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "839a676984cc33fa46fc380bbcb45213b4edd5b7",
+  "prompts": {},
+  "sessions": {
+    "s_88744486217ece": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e5df9-0a3c-7471-acb1-301aaa9b7a71",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
