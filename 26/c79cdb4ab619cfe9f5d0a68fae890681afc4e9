@@ -1,0 +1,21 @@
+weed/s3api/s3api_bucket_handlers_misc_test.go
+  s_88744486217ece::t_e781cd18449081 12,16,107-133
+weed/s3api/s3api_bucket_handlers.go
+  s_88744486217ece::t_e404596cba9bc7 1062
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "26c79cdb4ab619cfe9f5d0a68fae890681afc4e9",
+  "prompts": {},
+  "sessions": {
+    "s_88744486217ece": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e5df9-0a3c-7471-acb1-301aaa9b7a71",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
