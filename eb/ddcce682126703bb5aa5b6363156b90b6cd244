@@ -1,0 +1,45 @@
+weed/plugin/worker/worker.go
+  s_88744486217ece::t_3bcedc2c0549be 654
+weed/storage/store_ec.go
+  s_88744486217ece::t_94f551b5614522 213,262
+weed/storage/store_ec_hybrid_repro_test.go
+  s_88744486217ece::t_1b370828dfc549 115-116,119,234-235
+weed/storage/store_ec_disk_type_test.go
+  s_88744486217ece::t_097df8db48e3a0 128
+  s_88744486217ece::t_17f257674b2587 28,56,116,121
+weed/admin/plugin/registry.go
+  s_88744486217ece::t_3bcedc2c0549be 11,481,488
+weed/replication/sink/filersink/filer_sink.go
+  s_88744486217ece::t_4e0d887111323e 38-46,146-147,151
+weed/cluster/lock_ring_manager.go
+  s_88744486217ece::t_3bcedc2c0549be 10,97
+weed/storage/store_ec_reconcile.go
+  s_88744486217ece::t_94f551b5614522 293
+weed/storage/store.go
+  s_88744486217ece::t_94f551b5614522 76-79,109-112,134,305,724,745,774
+weed/server/volume_grpc_client_to_master.go
+  s_88744486217ece::t_98ded542f672fe 247-249,256,259,265-267,274,277-278,284-286,293,296,302-304,311,314-315
+weed/replication/sink/filersink/fetch_write.go
+  s_88744486217ece::t_0755c57703c9de 153-155
+  s_88744486217ece::t_3bcedc2c0549be 156
+weed/admin/plugin/plugin_scheduler.go
+  s_88744486217ece::t_3bcedc2c0549be 14,610,642
+weed/credential/credential_manager.go
+  s_88744486217ece::t_3bcedc2c0549be 18,178,180
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "ebddcce682126703bb5aa5b6363156b90b6cd244",
+  "prompts": {},
+  "sessions": {
+    "s_88744486217ece": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e5df9-0a3c-7471-acb1-301aaa9b7a71",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
