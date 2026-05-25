@@ -1,0 +1,25 @@
+weed/storage/backend/rclone_backend/rclone_backend.go
+  s_88744486217ece::t_eaffe559c16214 269,273
+weed/storage/backend/s3_backend/s3_backend.go
+  s_88744486217ece::t_eaffe559c16214 173,177
+weed/storage/backend/rclone_backend/rclone_backend_readonly_test.go
+  s_88744486217ece::t_6551f9210f82c5 1-25
+weed/storage/backend/s3_backend/s3_backend_test.go
+  s_88744486217ece::t_6551f9210f82c5 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "bca3a6cf84bc258eb6b28c89ab493b1d86e28450",
+  "prompts": {},
+  "sessions": {
+    "s_88744486217ece": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e5df9-0a3c-7471-acb1-301aaa9b7a71",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
