@@ -1,0 +1,19 @@
+weed/admin/plugin/registry.go
+  s_a870849ac1371a::t_33d41cba15d713 488-497,520
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "a5372ea9ea262e9e8d2b0b50bc2778db5b13c71b",
+  "prompts": {},
+  "sessions": {
+    "s_a870849ac1371a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6344-db3a-7ca2-b050-f90f304def39",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
