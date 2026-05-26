@@ -1,0 +1,11 @@
+weed/mount/peer_registrar_test.go
+  s_7e749654ce9783::t_219042e37b92b7 11,21,28,35
+weed/storage/store.go
+  07f3c68df57cda2e 324-334
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "d2061bc4dac6836a102bc341196b8b849246fc90",
+  "prompts": {}
+}
