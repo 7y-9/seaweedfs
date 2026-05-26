@@ -1,0 +1,21 @@
+weed/mount/rdma_client_test.go
+  s_a870849ac1371a::t_48fbbe42a0b86b 1-23
+weed/mount/rdma_client.go
+  s_a870849ac1371a::t_4b9230451968ff 112-113,116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "64a551fa950f369fe423934d432cb3ac155f1aaa",
+  "prompts": {},
+  "sessions": {
+    "s_a870849ac1371a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6344-db3a-7ca2-b050-f90f304def39",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
