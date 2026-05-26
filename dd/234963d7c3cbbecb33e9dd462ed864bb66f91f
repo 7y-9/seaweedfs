@@ -1,0 +1,21 @@
+weed/mq/kafka/protocol/sync_group_request_parse_test.go
+  s_a870849ac1371a::t_c322656c0b46bc 1-24
+weed/mq/kafka/protocol/joingroup.go
+  s_a870849ac1371a::t_76c4c996aa2229 1234-1260,1262-1265,1267-1270,1272-1279,1281-1282,1285-1295,1297-1300,1302-1311,1313-1322,1324-1325
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "dd234963d7c3cbbecb33e9dd462ed864bb66f91f",
+  "prompts": {},
+  "sessions": {
+    "s_a870849ac1371a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6344-db3a-7ca2-b050-f90f304def39",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
