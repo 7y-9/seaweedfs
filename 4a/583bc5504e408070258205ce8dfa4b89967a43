@@ -1,0 +1,21 @@
+weed/util/parse.go
+  s_a870849ac1371a::t_f10f08802b1cdb 5,64-65,70,72
+weed/util/parse_test.go
+  s_a870849ac1371a::t_eb35a4ea7f90d7 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "4a583bc5504e408070258205ce8dfa4b89967a43",
+  "prompts": {},
+  "sessions": {
+    "s_a870849ac1371a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6344-db3a-7ca2-b050-f90f304def39",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
