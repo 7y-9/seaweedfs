@@ -1,0 +1,19 @@
+weed/mount/peer_registrar_test.go
+  s_a870849ac1371a::t_a2aa7eda82d6a0 11,21,28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "76d825c17a3b276bb2068962a974b3d1dbd7755c",
+  "prompts": {},
+  "sessions": {
+    "s_a870849ac1371a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6344-db3a-7ca2-b050-f90f304def39",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
