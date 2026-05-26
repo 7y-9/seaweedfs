@@ -1,0 +1,21 @@
+weed/mq/kafka/protocol/fetch.go
+  s_a870849ac1371a::t_e3c2f745820729 664,669,674,677-681,688,692-694,698,701-705,712
+weed/mq/kafka/protocol/fetch_forgotten_topics_parse_test.go
+  s_a870849ac1371a::t_1d3dc2a74d9d0a 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "278a7b359b2e75c8e1a2e8910b4efefc6c83c7d9",
+  "prompts": {},
+  "sessions": {
+    "s_a870849ac1371a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6344-db3a-7ca2-b050-f90f304def39",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
