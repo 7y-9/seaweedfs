@@ -1,0 +1,21 @@
+weed/mq/kafka/protocol/heartbeat_request_parse_test.go
+  s_a870849ac1371a::t_cd0be0fc58ec66 1-23
+weed/mq/kafka/protocol/consumer_coordination.go
+  s_a870849ac1371a::t_befbbd86d873d8 330-339,341-342
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "8c5c01cd7e86b388f73fc40c3391665844efb2bc",
+  "prompts": {},
+  "sessions": {
+    "s_a870849ac1371a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6344-db3a-7ca2-b050-f90f304def39",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
