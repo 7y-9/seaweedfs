@@ -1,0 +1,21 @@
+weed/mq/kafka/protocol/offset_commit_request_parse_test.go
+  s_a870849ac1371a::t_76674c06be1b6c 1-25
+weed/mq/kafka/protocol/offset_management.go
+  s_a870849ac1371a::t_ee0bef678d22ad 364-365,367-368,372,375,381,388,395,398,405,414,422-431,433-434
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "d7ff1845f6b3a2fcb2f20174353f5ef4a8774ed9",
+  "prompts": {},
+  "sessions": {
+    "s_a870849ac1371a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6344-db3a-7ca2-b050-f90f304def39",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
