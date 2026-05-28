@@ -1,0 +1,21 @@
+weed/worker/tasks/iceberg/handler_test.go
+  s_0b8f087e24d313::t_0b42f943a46a72 1265,1273
+docs/issues/community-bugs/024-iceberg-handler-nil-contexts.md
+  s_0b8f087e24d313::t_0b42f943a46a72 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "dc428664c2f231e748cf776b3c38c88d58e24d1f",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
