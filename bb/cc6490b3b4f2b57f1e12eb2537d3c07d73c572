@@ -1,0 +1,21 @@
+docs/issues/community-bugs/028-nfs-rename-unused-result.md
+  s_0b8f087e24d313::t_177c6433dde8bd 1-25
+weed/server/nfs/server_test.go
+  s_0b8f087e24d313::t_177c6433dde8bd 233
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "bbcc6490b3b4f2b57f1e12eb2537d3c07d73c572",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
