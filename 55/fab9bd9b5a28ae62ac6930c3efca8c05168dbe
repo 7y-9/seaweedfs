@@ -1,0 +1,21 @@
+weed/credential/credential_manager.go
+  s_0b8f087e24d313::t_a54dd49f873ac1 18,172-174,180
+docs/issues/community-bugs/003-credential-config-copylock.md
+  s_0b8f087e24d313::t_a54dd49f873ac1 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "55fab9bd9b5a28ae62ac6930c3efca8c05168dbe",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
