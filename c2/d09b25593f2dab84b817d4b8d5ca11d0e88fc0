@@ -1,0 +1,23 @@
+weed/replication/sink/filersink/fetch_write_test.go
+  s_0b8f087e24d313::t_8863622c15b29c 276
+  s_0b8f087e24d313::t_2c12f2f3c24be7 4
+docs/issues/community-bugs/026-filersink-test-nil-context.md
+  s_0b8f087e24d313::t_6fd9605648ef7d 24
+  s_0b8f087e24d313::t_8863622c15b29c 1-23,25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "c2d09b25593f2dab84b817d4b8d5ca11d0e88fc0",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    }
+  }
+}
