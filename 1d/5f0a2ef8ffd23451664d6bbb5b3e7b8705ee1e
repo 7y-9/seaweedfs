@@ -1,0 +1,21 @@
+docs/issues/community-bugs/011-trino-unused-sql-output.md
+  s_0b8f087e24d313::t_caa39f023ac349 1-26
+test/s3tables/catalog_trino/trino_crud_operations_test.go
+  s_0b8f087e24d313::t_caa39f023ac349 72,201
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "1d5f0a2ef8ffd23451664d6bbb5b3e7b8705ee1e",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
