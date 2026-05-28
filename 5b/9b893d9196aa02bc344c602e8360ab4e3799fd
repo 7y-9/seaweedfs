@@ -1,0 +1,21 @@
+docs/issues/community-bugs/025-query-debug-nil-context.md
+  s_0b8f087e24d313::t_be944b4a50dffb 1-25
+weed/query/engine/parsing_debug_test.go
+  s_0b8f087e24d313::t_be944b4a50dffb 4,92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "5b9b893d9196aa02bc344c602e8360ab4e3799fd",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
