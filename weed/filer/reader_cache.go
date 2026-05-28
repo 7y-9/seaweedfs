@@ -95,6 +95,9 @@ func (rc *ReaderCache) MaybeCache(chunkViews *Interval[*ChunkView], count int) {
 }
 
 func (rc *ReaderCache) ReadChunkAt(ctx context.Context, buffer []byte, fileId string, cipherKey []byte, isGzipped bool, offset int64, chunkSize int, shouldCache bool) (int, error) {
+	if chunkSize <= 0 || chunkSize > len(buffer) {
+		chunkSize = len(buffer)
+	}
 	rc.Lock()
 
 	if cacher, found := rc.downloaders[fileId]; found {
@@ -128,6 +131,10 @@ func (rc *ReaderCache) ReadChunkAt(ctx context.Context, buffer []byte, fileId st
 			oldDownloader := rc.downloaders[oldestFid]
 			delete(rc.downloaders, oldestFid)
 			oldDownloader.destroy()
+		} else {
+			// All slots are in-flight. Do not exceed the configured limit.
+			rc.Unlock()
+			return fetchChunkRange(ctx, buffer, rc.lookupFileIdFn, fileId, cipherKey, isGzipped, offset)
 		}
 	}
 
