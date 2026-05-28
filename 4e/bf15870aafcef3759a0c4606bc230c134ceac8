@@ -1,0 +1,19 @@
+docs/issues/community-bugs/012-ec-lifecycle-unused-shard-path.md
+  s_0b8f087e24d313::t_c12f770f912296 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "4ebf15870aafcef3759a0c4606bc230c134ceac8",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
