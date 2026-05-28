@@ -1,0 +1,19 @@
+docs/issues/community-bugs/007-untrappable-os-kill-signal.md
+  s_0b8f087e24d313::t_409225336fd27f 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "dc38bcb57abab942a0ca66119ebb572102b1b80a",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
