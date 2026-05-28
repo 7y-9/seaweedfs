@@ -1,0 +1,25 @@
+weed/admin/plugin/registry.go
+  s_0b8f087e24d313::t_24bbafb30f948d 11,481,488,495
+  s_0b8f087e24d313::t_f15118876f76b4 510
+docs/issues/community-bugs/001-admin-runtime-copylock.md
+  s_0b8f087e24d313::t_24bbafb30f948d 1,5,9-11,18,22
+  s_0b8f087e24d313::t_7feec768c5a0ff 2-4,6-8,12-17,19-21,23-28
+weed/admin/plugin/plugin_scheduler.go
+  s_0b8f087e24d313::t_7feec768c5a0ff 14,610,642
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "0593599badbfb449164a9c4e665b37c7850c3c21",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
