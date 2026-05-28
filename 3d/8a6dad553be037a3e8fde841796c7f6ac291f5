@@ -1,0 +1,21 @@
+unmaintained/s3/presigned_put/presigned_put.go
+  s_0b8f087e24d313::t_47e0954dd59528 40-43,70
+docs/issues/community-bugs/013-presigned-put-error-order.md
+  s_0b8f087e24d313::t_47e0954dd59528 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "3d8a6dad553be037a3e8fde841796c7f6ac291f5",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
