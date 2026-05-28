@@ -1,0 +1,21 @@
+weed/s3api/s3api_internal_lifecycle_test.go
+  s_0b8f087e24d313::t_68791953d24397 5,115,138,161,182,211
+docs/issues/community-bugs/023-s3-lifecycle-nil-contexts.md
+  s_0b8f087e24d313::t_68791953d24397 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "3575965521e43492a494f018bd8268fbae104fb9",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
