@@ -1,0 +1,19 @@
+docs/issues/community-bugs/021-kafka-schema-unused-leader-check.md
+  s_0b8f087e24d313::t_9b26bac4d0c55c 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "f0b515cd29b980fb6e30b9bf14e7b9c7c8421ea4",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
