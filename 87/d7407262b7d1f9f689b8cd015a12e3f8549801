@@ -1,0 +1,21 @@
+weed/cluster/lock_ring_manager.go
+  s_0b8f087e24d313::t_0febf99d7b3d42 10,97
+docs/issues/community-bugs/002-lock-ring-update-copylock.md
+  s_0b8f087e24d313::t_0febf99d7b3d42 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "87d7407262b7d1f9f689b8cd015a12e3f8549801",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
