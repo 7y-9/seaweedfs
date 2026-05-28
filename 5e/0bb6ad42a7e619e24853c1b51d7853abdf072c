@@ -1,0 +1,21 @@
+docs/issues/community-bugs/029-volume-balance-test-error-check.md
+  s_0b8f087e24d313::t_f992a5f8749906 1-25
+weed/worker/tasks/balance/plugin_handler_test.go
+  s_0b8f087e24d313::t_f992a5f8749906 506-508
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "5e0bb6ad42a7e619e24853c1b51d7853abdf072c",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
