@@ -1,0 +1,21 @@
+docs/issues/community-bugs/017-cleanup-queue-unused-peek-values.md
+  s_0b8f087e24d313::t_d4fa6d8aa9f528 1-26
+weed/filer/empty_folder_cleanup/cleanup_queue_test.go
+  s_0b8f087e24d313::t_d4fa6d8aa9f528 166
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "f993536cccdd62a9508554c06ed0cde4857e645b",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
