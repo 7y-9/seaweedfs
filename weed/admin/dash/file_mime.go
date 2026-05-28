@@ -131,11 +131,7 @@ func normalizeMimeType(value string) string {
 		return strings.ToLower(mediaType)
 	}
 
-	if idx := strings.Index(value, ";"); idx >= 0 {
-		value = value[:idx]
-	}
-
-	return strings.ToLower(strings.TrimSpace(value))
+	return ""
 }
 
 func inferMimeTypeFromName(filename string) string {
