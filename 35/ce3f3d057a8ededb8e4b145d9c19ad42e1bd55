@@ -1,0 +1,19 @@
+docs/issues/community-bugs/008-remote-cache-dead-files-append.md
+  s_0b8f087e24d313::t_16da055d6d08f8 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "35ce3f3d057a8ededb8e4b145d9c19ad42e1bd55",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
