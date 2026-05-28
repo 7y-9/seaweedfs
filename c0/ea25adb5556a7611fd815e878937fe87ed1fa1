@@ -1,0 +1,21 @@
+weed/mq/kafka/protocol/handler.go
+  s_0b8f087e24d313::t_fd4c1780707e00 2693,2700
+docs/issues/community-bugs/020-kafka-create-topics-dead-body.md
+  s_0b8f087e24d313::t_fd4c1780707e00 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "c0ea25adb5556a7611fd815e878937fe87ed1fa1",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
