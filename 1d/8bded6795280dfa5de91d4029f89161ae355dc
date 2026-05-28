@@ -1,0 +1,19 @@
+docs/issues/community-bugs/027-s3-copy-dead-reencrypt-vars.md
+  s_0b8f087e24d313::t_c2d4b28b59399f 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "1d8bded6795280dfa5de91d4029f89161ae355dc",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
