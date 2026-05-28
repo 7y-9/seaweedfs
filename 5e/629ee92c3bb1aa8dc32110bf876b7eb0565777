@@ -1,0 +1,21 @@
+docs/issues/community-bugs/018-filer-notify-unused-stop-time.md
+  s_0b8f087e24d313::t_162e3b3e371502 1-25
+weed/filer/filer_notify.go
+  s_0b8f087e24d313::t_162e3b3e371502 158,164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "5e629ee92c3bb1aa8dc32110bf876b7eb0565777",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
