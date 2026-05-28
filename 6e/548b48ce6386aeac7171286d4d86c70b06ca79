@@ -1,0 +1,19 @@
+docs/issues/community-bugs/009-suspended-version-dead-append.md
+  s_0b8f087e24d313::t_b12948131c2b73 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "6e548b48ce6386aeac7171286d4d86c70b06ca79",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
