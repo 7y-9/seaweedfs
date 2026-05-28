@@ -1,0 +1,21 @@
+test/s3/versioning/s3_versioning_pagination_stress_test.go
+  s_0b8f087e24d313::t_4441d13c3f6fd8 6,188-190,192
+docs/issues/community-bugs/010-versioning-stress-body-read.md
+  s_0b8f087e24d313::t_4441d13c3f6fd8 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "1cd3d52595b2a7dfe3bfd60fe31b470d87119c8b",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
