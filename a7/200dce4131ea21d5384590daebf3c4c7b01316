@@ -1,0 +1,19 @@
+weed/filer/abstract_sql/abstract_sql_store_kv.go
+  s_0b8f087e24d313::t_a203d032ddbdd4 24,37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "a7200dce4131ea21d5384590daebf3c4c7b01316",
+  "prompts": {},
+  "sessions": {
+    "s_0b8f087e24d313": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6f3b-475b-7901-9d1c-5012c574ffae",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
