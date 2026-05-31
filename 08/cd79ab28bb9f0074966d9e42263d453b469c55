@@ -1,0 +1,21 @@
+weed/s3api/s3api_object_handlers_copy_mime_test.go
+  s_2fdd66fe12752c::t_31642527608aeb 259-267
+weed/s3api/tags.go
+  s_2fdd66fe12752c::t_99cb870a4f114a 67-69,77-78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "08cd79ab28bb9f0074966d9e42263d453b469c55",
+  "prompts": {},
+  "sessions": {
+    "s_2fdd66fe12752c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e7ed8-2c58-77e3-8d43-d76be05c6740",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
