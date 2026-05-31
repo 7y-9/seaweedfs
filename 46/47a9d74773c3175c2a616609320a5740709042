@@ -1,0 +1,21 @@
+weed/server/filer_server_tus_handlers_test.go
+  s_2fdd66fe12752c::t_7ac02f61ba4a3f 1-22
+weed/server/filer_server_tus_handlers.go
+  s_2fdd66fe12752c::t_12a519389b9a03 48-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "4647a9d74773c3175c2a616609320a5740709042",
+  "prompts": {},
+  "sessions": {
+    "s_2fdd66fe12752c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e7ed8-2c58-77e3-8d43-d76be05c6740",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
