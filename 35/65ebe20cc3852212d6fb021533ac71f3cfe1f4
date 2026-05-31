@@ -1,0 +1,21 @@
+weed/s3api/iceberg/handlers_namespace.go
+  s_2fdd66fe12752c::t_e1841f6be013c2 6,112-118
+weed/s3api/iceberg/handlers_namespace_test.go
+  s_2fdd66fe12752c::t_434c216b4380d6 1-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "3565ebe20cc3852212d6fb021533ac71f3cfe1f4",
+  "prompts": {},
+  "sessions": {
+    "s_2fdd66fe12752c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e7ed8-2c58-77e3-8d43-d76be05c6740",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
