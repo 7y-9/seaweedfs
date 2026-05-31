@@ -1,0 +1,23 @@
+weed/s3api/lifecycle_xml/types.go
+  s_2fdd66fe12752c::t_853964be077f11 15,124-139
+  s_2fdd66fe12752c::t_856a97fda91043 140
+weed/s3api/lifecycle_xml/round_trip_test.go
+  s_2fdd66fe12752c::t_0821297c981507 14
+  s_2fdd66fe12752c::t_e19ac56fc8cb7e 9-13,15-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "b25b15404b96e342f22311877fe194d04171e8f2",
+  "prompts": {},
+  "sessions": {
+    "s_2fdd66fe12752c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e7ed8-2c58-77e3-8d43-d76be05c6740",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
