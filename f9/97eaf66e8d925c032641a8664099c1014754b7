@@ -1,0 +1,21 @@
+weed/s3api/policy/post-policy_test.go
+  s_2fdd66fe12752c::t_9d4c76659247ec 91-120
+weed/s3api/policy/postpolicyform.go
+  s_2fdd66fe12752c::t_67f60520c43cfd 187-189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "f997eaf66e8d925c032641a8664099c1014754b7",
+  "prompts": {},
+  "sessions": {
+    "s_2fdd66fe12752c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e7ed8-2c58-77e3-8d43-d76be05c6740",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
