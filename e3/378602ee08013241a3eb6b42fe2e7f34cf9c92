@@ -1,0 +1,21 @@
+weed/util/http/http_global_client_util.go
+  s_2fdd66fe12752c::t_6638049b79b395 489
+weed/util/http/http_global_client_util_test.go
+  s_2fdd66fe12752c::t_7861728c64a535 3-10,80-125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "e3378602ee08013241a3eb6b42fe2e7f34cf9c92",
+  "prompts": {},
+  "sessions": {
+    "s_2fdd66fe12752c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e7ed8-2c58-77e3-8d43-d76be05c6740",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
