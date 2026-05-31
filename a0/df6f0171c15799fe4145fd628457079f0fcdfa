@@ -1,0 +1,21 @@
+weed/images/cropping_test.go
+  s_2fdd66fe12752c::t_0e1d6be224e3c1 5,24-38
+weed/images/cropping.go
+  s_2fdd66fe12752c::t_28d9e03614a27a 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "a0df6f0171c15799fe4145fd628457079f0fcdfa",
+  "prompts": {},
+  "sessions": {
+    "s_2fdd66fe12752c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e7ed8-2c58-77e3-8d43-d76be05c6740",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
