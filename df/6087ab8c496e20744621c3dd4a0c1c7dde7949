@@ -1,0 +1,21 @@
+weed/s3api/s3api_embedded_iam.go
+  s_2fdd66fe12752c::t_b706902b6a7084 552-554
+weed/s3api/s3api_embedded_iam_managed_policy_test.go
+  s_2fdd66fe12752c::t_5d8bd9ad19533f 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "df6087ab8c496e20744621c3dd4a0c1c7dde7949",
+  "prompts": {},
+  "sessions": {
+    "s_2fdd66fe12752c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e7ed8-2c58-77e3-8d43-d76be05c6740",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
