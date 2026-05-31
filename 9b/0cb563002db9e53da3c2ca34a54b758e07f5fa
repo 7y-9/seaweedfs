@@ -1,0 +1,25 @@
+weed/s3api/tags_test.go
+  s_2fdd66fe12752c::t_8ab6becf479036 4-6,108-119
+weed/s3api/s3api_object_handlers_tagging.go
+  s_2fdd66fe12752c::t_74300e74509621 119
+weed/s3api/tags.go
+  s_2fdd66fe12752c::t_77a69ca508e191 6-7,85-90
+weed/s3api/s3api_bucket_tagging_handlers.go
+  s_2fdd66fe12752c::t_c230d1b0682820 57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "9b0cb563002db9e53da3c2ca34a54b758e07f5fa",
+  "prompts": {},
+  "sessions": {
+    "s_2fdd66fe12752c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e7ed8-2c58-77e3-8d43-d76be05c6740",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
