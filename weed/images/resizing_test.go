@@ -2,6 +2,7 @@ package images
 
 import (
 	"bytes"
+	"io"
 	"os"
 	"testing"
 
@@ -21,4 +22,17 @@ func TestResizing(t *testing.T) {
 
 	os.Remove("resized1.png")
 
+}
+
+func TestResizedResetsReaderOnDecodeError(t *testing.T) {
+	data := []byte("not an image")
+	resized, _, _ := Resized(".jpg", bytes.NewReader(data), 10, 10, "")
+
+	got, err := io.ReadAll(resized)
+	if err != nil {
+		t.Fatalf("ReadAll resized reader: %v", err)
+	}
+	if !bytes.Equal(got, data) {
+		t.Fatalf("resized reader content = %q, want %q", got, data)
+	}
 }

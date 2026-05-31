@@ -56,6 +56,7 @@ func Resized(ext string, read io.ReadSeeker, width, height int, mode string) (re
 		return bytes.NewReader(buf.Bytes()), dstImage.Bounds().Dx(), dstImage.Bounds().Dy()
 	} else {
 		glog.Error(err)
+		read.Seek(0, 0)
 	}
 	return read, 0, 0
 }
