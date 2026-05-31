@@ -1,0 +1,21 @@
+weed/images/resizing.go
+  s_2fdd66fe12752c::t_7e45f13efacebc 59
+weed/images/resizing_test.go
+  s_2fdd66fe12752c::t_6939933f0e4655 5,26-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "61f0e70f5a987f69e067ee595bd1049097dd24e7",
+  "prompts": {},
+  "sessions": {
+    "s_2fdd66fe12752c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e7ed8-2c58-77e3-8d43-d76be05c6740",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
