@@ -1,0 +1,21 @@
+weed/command/filer_meta_backup_test.go
+  s_41f356bea759d6::t_3b4c4cc848ffe7 70-75
+weed/command/filer_meta_backup.go
+  s_41f356bea759d6::t_f2f751db222932 5,120,129-132,186-203,208-211
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "ee628165f1229db37cb82daee6bb8f30bf79c447",
+  "prompts": {},
+  "sessions": {
+    "s_41f356bea759d6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e916a-bb53-7e31-bd67-7364b384bc9f",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
