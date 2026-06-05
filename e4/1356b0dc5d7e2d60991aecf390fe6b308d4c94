@@ -1,0 +1,21 @@
+weed/s3api/iceberg/path_validation_test.go
+  s_df00aa6923b31a::t_2f557f5b865679 117-122
+weed/s3api/iceberg/utils.go
+  s_df00aa6923b31a::t_d43918acdfe9aa 59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "e41356b0dc5d7e2d60991aecf390fe6b308d4c94",
+  "prompts": {},
+  "sessions": {
+    "s_df00aa6923b31a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e98a4-5538-7493-9097-3443e56a11c4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
