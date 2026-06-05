@@ -1,0 +1,21 @@
+weed/util/bytes.go
+  s_df00aa6923b31a::t_960373b0b633ec 223-225,246-264
+weed/util/bytes_test.go
+  s_df00aa6923b31a::t_6c0bbd94186aa5 60-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "43824c765926c47e5f2e03f5da96535dd5e1e769",
+  "prompts": {},
+  "sessions": {
+    "s_df00aa6923b31a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e98a4-5538-7493-9097-3443e56a11c4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
