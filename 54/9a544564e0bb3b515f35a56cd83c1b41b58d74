@@ -1,0 +1,21 @@
+weed/s3api/s3api_object_handlers_range_test.go
+  s_e37b276707b876::t_b5a3154c3a9ff8 1-36
+weed/s3api/s3api_object_handlers.go
+  s_e37b276707b876::t_2ea331116c4859 194-197,203-206
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "549a544564e0bb3b515f35a56cd83c1b41b58d74",
+  "prompts": {},
+  "sessions": {
+    "s_e37b276707b876": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e9720-4e8c-72b1-bde8-9f372ca1188f",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
