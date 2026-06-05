@@ -1,0 +1,26 @@
+weed/iamapi/iamapi_management_handlers.go
+  s_df00aa6923b31a::t_7560e1ec812e8d 1106
+weed/iamapi/iamapi_get_actions_resource_colon_test.go
+  s_df00aa6923b31a::t_6fdb12b6155489 1-25
+weed/s3api/s3api_embedded_iam.go
+  s_df00aa6923b31a::t_0eca9e95d082e8 959
+weed/s3api/s3api_embedded_iam_resource_colon_test.go
+  s_df00aa6923b31a::t_877a21abd4ecfa 25
+  s_df00aa6923b31a::t_af8d00b41eb5a7 1-24,26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "4fcf4d31e0355a9282eaee04d43ec80b499b9b74",
+  "prompts": {},
+  "sessions": {
+    "s_df00aa6923b31a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e98a4-5538-7493-9097-3443e56a11c4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
