@@ -1,0 +1,21 @@
+weed/pb/server_address.go
+  s_df00aa6923b31a::t_3ab8ebd5682352 179-180
+weed/pb/server_address_test.go
+  s_df00aa6923b31a::t_4de0887e4b338c 128-134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "91f1f51160112820f7d00e8a4d789f6ac5b51858",
+  "prompts": {},
+  "sessions": {
+    "s_df00aa6923b31a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e98a4-5538-7493-9097-3443e56a11c4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
