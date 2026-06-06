@@ -1,0 +1,21 @@
+weed/query/json/query_json_test.go
+  s_df00aa6923b31a::t_b8d86056fc948b 134-148
+weed/query/json/query_json.go
+  s_df00aa6923b31a::t_cf3780a0b50d33 67-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "ca5d399648be7464cc40a70478b830d40af03b1d",
+  "prompts": {},
+  "sessions": {
+    "s_df00aa6923b31a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e98a4-5538-7493-9097-3443e56a11c4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
