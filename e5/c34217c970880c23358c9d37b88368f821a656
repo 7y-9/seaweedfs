@@ -1,0 +1,21 @@
+weed/util/minfreespace_test.go
+  s_df00aa6923b31a::t_f93cde3dcd45e8 18
+weed/util/minfreespace.go
+  s_df00aa6923b31a::t_d196c03db38c8b 90-91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "e5c34217c970880c23358c9d37b88368f821a656",
+  "prompts": {},
+  "sessions": {
+    "s_df00aa6923b31a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e98a4-5538-7493-9097-3443e56a11c4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
