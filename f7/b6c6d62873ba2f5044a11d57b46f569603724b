@@ -1,0 +1,21 @@
+weed/s3api/s3api_copy_validation.go
+  s_df00aa6923b31a::t_f044581a393b38 239-240
+weed/s3api/s3api_copy_validation_test.go
+  s_df00aa6923b31a::t_04c37c2e7d314c 1-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "f7b6c6d62873ba2f5044a11d57b46f569603724b",
+  "prompts": {},
+  "sessions": {
+    "s_df00aa6923b31a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e98a4-5538-7493-9097-3443e56a11c4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
