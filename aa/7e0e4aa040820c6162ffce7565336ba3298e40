@@ -1,0 +1,21 @@
+weed/shell/command_sleep_test.go
+  s_df00aa6923b31a::t_9ceea28b169651 1-18
+weed/shell/command_sleep.go
+  s_df00aa6923b31a::t_cc4ff1ae70227b 41-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "aa7e0e4aa040820c6162ffce7565336ba3298e40",
+  "prompts": {},
+  "sessions": {
+    "s_df00aa6923b31a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e98a4-5538-7493-9097-3443e56a11c4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
