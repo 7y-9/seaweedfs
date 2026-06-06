@@ -1,0 +1,21 @@
+weed/s3api/filer_multipart.go
+  s_df00aa6923b31a::t_935dad849c5bd4 876-883
+weed/s3api/filer_multipart_parse_test.go
+  s_df00aa6923b31a::t_b13f6e41f08bfb 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "f2454fe82b11b2b0739a575f3a23dc2f758642bc",
+  "prompts": {},
+  "sessions": {
+    "s_df00aa6923b31a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e98a4-5538-7493-9097-3443e56a11c4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
