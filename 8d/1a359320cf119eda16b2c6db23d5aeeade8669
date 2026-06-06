@@ -1,0 +1,21 @@
+weed/shell/s3tables_helpers_test.go
+  s_df00aa6923b31a::t_ea71d888a71327 1-16
+weed/shell/s3tables_helpers.go
+  s_df00aa6923b31a::t_31739b09c6057c 60-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "8d1a359320cf119eda16b2c6db23d5aeeade8669",
+  "prompts": {},
+  "sessions": {
+    "s_df00aa6923b31a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e98a4-5538-7493-9097-3443e56a11c4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
