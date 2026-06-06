@@ -1,0 +1,21 @@
+weed/operation/chunked_file_test.go
+  s_df00aa6923b31a::t_d8a6a34ecd459c 1-18
+weed/operation/chunked_file.go
+  s_df00aa6923b31a::t_4244138f92956e 150-152
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "41c5c23f228bb17ae0afd7a3b37591c6db925e8e",
+  "prompts": {},
+  "sessions": {
+    "s_df00aa6923b31a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e98a4-5538-7493-9097-3443e56a11c4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
