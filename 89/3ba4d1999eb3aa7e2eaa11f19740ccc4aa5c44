@@ -1,0 +1,21 @@
+weed/storage/needle/needle_parse_upload.go
+  s_df00aa6923b31a::t_fda0ad8cd49aba 80-83
+weed/storage/needle/needle_parse_upload_stream_test.go
+  s_df00aa6923b31a::t_244bc7ca0a1247 79-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "893ba4d1999eb3aa7e2eaa11f19740ccc4aa5c44",
+  "prompts": {},
+  "sessions": {
+    "s_df00aa6923b31a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e98a4-5538-7493-9097-3443e56a11c4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
