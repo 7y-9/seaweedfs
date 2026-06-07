@@ -1,0 +1,22 @@
+weed/filer/arangodb/helpers_test.go
+  s_be35a51e67aecf::t_5283110736772f 1-5,26-27
+  s_be35a51e67aecf::t_fe345bbc256ef5 6-25
+weed/filer/arangodb/helpers.go
+  s_be35a51e67aecf::t_56395f629b6c88 44-48,52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "e10ed567e1fb020ddd2bc128874dd043e460c28c",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
