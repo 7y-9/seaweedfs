@@ -1,0 +1,21 @@
+weed/storage/super_block/replica_placement_test.go
+  s_be35a51e67aecf::t_6372f7d80ce758 44-53
+weed/storage/super_block/replica_placement.go
+  s_be35a51e67aecf::t_0c2a0afb5c510d 24-26,29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "032b19ac39ee6a7c98c711b5a03463410182ca48",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
