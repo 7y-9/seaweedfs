@@ -1,0 +1,21 @@
+weed/command/update.go
+  s_be35a51e67aecf::t_f0e3cdc2f08202 232-234
+weed/command/update_test.go
+  s_be35a51e67aecf::t_9539349116ab40 1-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "69bc69d8f99e07ba203d83e73d1db7499bff66ad",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
