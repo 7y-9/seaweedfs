@@ -1,0 +1,21 @@
+weed/filer/filechunks_test.go
+  s_be35a51e67aecf::t_05d6b168b31f7c 18-31
+weed/filer/filechunks.go
+  s_be35a51e67aecf::t_f495b8be3a3e8c 55-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "7c5b2daa8ccf924d614461d0b9327f7faef52e98",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
