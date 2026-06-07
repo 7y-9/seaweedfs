@@ -1,0 +1,21 @@
+weed/shell/command_s3_bucket_quota_test.go
+  s_be35a51e67aecf::t_85d3c6ca77fe38 1-14
+weed/shell/command_s3_bucket_quota.go
+  s_be35a51e67aecf::t_3c0da46609d39a 42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "791bb192acb5c0578aee5206e003c5c96da0d6f2",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
