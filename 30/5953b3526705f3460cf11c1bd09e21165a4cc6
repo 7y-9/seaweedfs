@@ -1,0 +1,21 @@
+weed/query/engine/datetime_functions_test.go
+  s_be35a51e67aecf::t_9e467217934482 122-129
+weed/query/engine/engine.go
+  s_be35a51e67aecf::t_04564a0883a228 5314-5317
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "305953b3526705f3460cf11c1bd09e21165a4cc6",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
