@@ -1,0 +1,21 @@
+weed/operation/lookup.go
+  s_be35a51e67aecf::t_ac21eb425954a9 61-68
+weed/operation/lookup_test.go
+  s_be35a51e67aecf::t_bbe25cb881b711 1-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "7f5841fe8bc34ec5e44b340f43d5e27aef9861c6",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
