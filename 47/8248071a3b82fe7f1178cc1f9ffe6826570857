@@ -1,0 +1,22 @@
+weed/storage/erasure_coding/ec_decoder_test.go
+  s_be35a51e67aecf::t_a32ff667550d8c 389-407
+weed/storage/erasure_coding/ec_volume_delete.go
+  s_be35a51e67aecf::t_254624ebfd523d 127-131
+  s_be35a51e67aecf::t_1a23c7a3747f80 118-123,147-153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "478248071a3b82fe7f1178cc1f9ffe6826570857",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
