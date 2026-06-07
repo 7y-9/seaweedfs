@@ -1,0 +1,21 @@
+weed/filer/leveldb2/leveldb2_store_kv.go
+  s_be35a51e67aecf::t_6e6f63e146dad5 55-57
+weed/filer/leveldb2/leveldb2_store_kv_test.go
+  s_be35a51e67aecf::t_e92923005295e4 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "c4aba898f893f86e5bfd2a2563bb5c21e3f716ab",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
