@@ -1,0 +1,22 @@
+weed/shell/command_fs_ls_test.go
+  s_be35a51e67aecf::t_a5cbbbf503cd1a 1-25
+weed/shell/command_fs_ls.go
+  s_be35a51e67aecf::t_ac14d52d3d2c6a 100-106,108,117
+  s_be35a51e67aecf::t_a5cbbbf503cd1a 82,93-99,107,109-116,118-129
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "e9e8cb544d112cd9577cd6304a8758330db9bf99",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
