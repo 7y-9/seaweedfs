@@ -1,0 +1,26 @@
+weed/s3api/s3api_bucket_handlers.go
+  s_be35a51e67aecf::t_0a8bea3aec6f0d 985-1000
+weed/s3api/s3api_bucket_lifecycle_response_test.go
+  s_be35a51e67aecf::t_3d381e7229dfc3 116-144
+weed/s3api/lifecycle_xml/types.go
+  s_be35a51e67aecf::t_46d05c894cd0fb 352-354,367-370,375-385
+  s_be35a51e67aecf::t_e194052efddef1 425-426,439-441,446-452
+  s_be35a51e67aecf::t_60d4b32c4eac08 93,113-127
+  s_be35a51e67aecf::t_ab4abaf87e61d6 238-239,252-256,261-269
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "991258f8a39b35a1dc25e5367b3520f393415291",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
