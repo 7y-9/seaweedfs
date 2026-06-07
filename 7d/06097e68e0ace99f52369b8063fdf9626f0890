@@ -1,0 +1,24 @@
+weed/server/filer_server_handlers_iam_grpc_test.go
+  s_be35a51e67aecf::t_6a04b074ed2c88 5,180
+  s_be35a51e67aecf::t_dcb24c7fc92f60 159-179,181-183
+weed/credential/credential_manager.go
+  s_be35a51e67aecf::t_e5e94378e4917a 5,427-438
+weed/server/filer_server_handlers_iam_grpc.go
+  s_be35a51e67aecf::t_fff6714d70e437 6,510-512
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "7d06097e68e0ace99f52369b8063fdf9626f0890",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
