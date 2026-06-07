@@ -1,0 +1,23 @@
+weed/replication/sub/notification_aws_sqs.go
+  s_be35a51e67aecf::t_b40435d2666af8 98-101
+weed/replication/sub/notification_aws_sqs_test.go
+  s_be35a51e67aecf::t_e738961ea621e3 1-22,25-57
+  s_be35a51e67aecf::t_508531ea1b727e 24
+  s_be35a51e67aecf::t_cce1f3e41f4ef7 23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "4146b6a41e7c9c750dac06f2218fc47d64600791",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
