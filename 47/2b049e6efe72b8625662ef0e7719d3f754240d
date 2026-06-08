@@ -1,0 +1,21 @@
+weed/filer/remote_storage_test.go
+  s_be35a51e67aecf::t_ed2cf961abfe38 71-91
+weed/filer/remote_storage.go
+  s_be35a51e67aecf::t_2df806dbf028c7 82-86,94-98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "472b049e6efe72b8625662ef0e7719d3f754240d",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
