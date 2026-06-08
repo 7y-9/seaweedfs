@@ -1,0 +1,21 @@
+weed/shell/command_s3_clean_uploads_test.go
+  s_be35a51e67aecf::t_3991a414f37928 1-18
+weed/shell/command_s3_clean_uploads.go
+  s_be35a51e67aecf::t_f8062f050adb7e 48-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "046481121f7f391e0af53655116cea5dbc2b5b2d",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
