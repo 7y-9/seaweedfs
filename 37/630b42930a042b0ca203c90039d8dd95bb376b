@@ -1,0 +1,21 @@
+weed/sftpd/user/filestore_test.go
+  s_be35a51e67aecf::t_2048b033d8f33e 1-20
+weed/sftpd/user/filestore.go
+  s_be35a51e67aecf::t_ba753c9794584b 9,195
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "37630b42930a042b0ca203c90039d8dd95bb376b",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
