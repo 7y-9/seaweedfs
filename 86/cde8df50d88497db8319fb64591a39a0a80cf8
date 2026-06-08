@@ -1,0 +1,21 @@
+weed/server/wrapped_webdav_fs_test.go
+  s_be35a51e67aecf::t_956eaf7218ab2b 1-37
+weed/server/wrapped_webdav_fs.go
+  s_be35a51e67aecf::t_65c58699acf586 101-105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "86cde8df50d88497db8319fb64591a39a0a80cf8",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
