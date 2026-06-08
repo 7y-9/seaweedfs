@@ -1,0 +1,21 @@
+weed/topology/collection.go
+  s_be35a51e67aecf::t_9e24816b52b4fa 57-60
+weed/topology/collection_test.go
+  s_be35a51e67aecf::t_fe32431f49044a 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "9b95cd74e317f7bd44e25bffcd24f4fa5e585e36",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
