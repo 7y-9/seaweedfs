@@ -1,0 +1,21 @@
+weed/shell/command_s3_lifecycle_run_shard_test.go
+  s_be35a51e67aecf::t_1c4b22a20846f1 59-66
+weed/shell/command_s3_lifecycle_run_shard.go
+  s_be35a51e67aecf::t_8351b68229a8de 267
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "570c4c970af7489dd0ce66fe237add81e6f801f6",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
