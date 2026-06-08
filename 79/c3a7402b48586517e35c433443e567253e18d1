@@ -1,0 +1,21 @@
+weed/s3api/s3api_circuit_breaker_test.go
+  s_be35a51e67aecf::t_915347cc3991de 85-120
+weed/s3api/s3api_circuit_breaker.go
+  s_be35a51e67aecf::t_d344a18345b0d0 168-171,183,201
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "79c3a7402b48586517e35c433443e567253e18d1",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
