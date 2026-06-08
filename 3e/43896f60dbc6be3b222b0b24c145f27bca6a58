@@ -1,0 +1,21 @@
+weed/server/postgres/server_test.go
+  s_be35a51e67aecf::t_2d0d0e3bdbb1c7 1-62
+weed/server/postgres/server.go
+  s_be35a51e67aecf::t_4197272b2bd966 567-571,574,635-638,644,651-655
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "3e43896f60dbc6be3b222b0b24c145f27bca6a58",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
