@@ -1,0 +1,21 @@
+weed/util/chunk_cache/chunk_cache_in_memory.go
+  s_be35a51e67aecf::t_b37421eca9ea56 61-65,69
+weed/util/chunk_cache/chunk_cache_on_disk_test.go
+  s_be35a51e67aecf::t_2b9ff1d48af359 6,13-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "b093a4b3eccf01b03338c93df3ab5dfc1c0eb82d",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
