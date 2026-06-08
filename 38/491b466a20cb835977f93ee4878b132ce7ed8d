@@ -1,0 +1,21 @@
+weed/shell/command_volume_vacuum_test.go
+  s_be35a51e67aecf::t_2c734ef133e329 1-20
+weed/shell/command_volume_vacuum.go
+  s_be35a51e67aecf::t_dc10b66bdee11c 45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "38491b466a20cb835977f93ee4878b132ce7ed8d",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
