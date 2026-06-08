@@ -1,0 +1,21 @@
+weed/server/volume_server_handlers_helper.go
+  s_be35a51e67aecf::t_a3252ef7fe5122 58-60,68
+weed/server/common_test.go
+  s_be35a51e67aecf::t_adaaa8973f9159 64-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "56fe4c5dd219beaaa552746b8f83a6f1444c7178",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
