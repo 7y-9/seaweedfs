@@ -1,0 +1,23 @@
+weed/server/volume_grpc_batch_delete_test.go
+  s_be35a51e67aecf::t_96379db32a4a55 6,46-69
+weed/server/volume_grpc_batch_delete.go
+  s_be35a51e67aecf::t_59e9546372b056 86
+  s_be35a51e67aecf::t_b9a699d06f32cc 48-54
+  s_be35a51e67aecf::t_4ccedcf00f9ad2 56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "a95b9e66e1534412e3f0505c9fa2ea9ee8607011",
+  "prompts": {},
+  "sessions": {
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
