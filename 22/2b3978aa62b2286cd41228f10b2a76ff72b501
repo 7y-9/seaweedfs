@@ -1,0 +1,21 @@
+weed/mq/broker/broker_grpc_configure.go
+  s_a8b72d4596d4f3::t_3f2c2c3188e328 22-25
+weed/mq/broker/broker_grpc_configure_test.go
+  s_a8b72d4596d4f3::t_3a741cc34ff8a3 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "222b3978aa62b2286cd41228f10b2a76ff72b501",
+  "prompts": {},
+  "sessions": {
+    "s_a8b72d4596d4f3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb1b0-1a5a-7682-a195-3b394643820e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
