@@ -1,0 +1,36 @@
+weed/s3api/auth_signature_v4_test.go
+  s_7d25dff1cff0dc::t_4af45aadcbedce 83-113
+  s_be35a51e67aecf::t_1f39f8e242acd2 69-82
+weed/s3api/auth_signature_v4.go
+  s_7d25dff1cff0dc::t_f0a2fdc141d2a6 562-565,591,723-727,730
+  s_be35a51e67aecf::t_ef4b17378fc3e7 731-735
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "a5eb51610d5a53cb3beed766c821444d982731d8",
+  "prompts": {},
+  "humans": {
+    "h_390498540f4af8": {
+      "author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  },
+  "sessions": {
+    "s_7d25dff1cff0dc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb08a-48d6-7b20-a8d6-9815bbc464bb",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    },
+    "s_be35a51e67aecf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea326-4743-74a1-907c-41260b632f83",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
