@@ -1,0 +1,21 @@
+weed/command/plugin_worker_test.go
+  s_a8b72d4596d4f3::t_c9e357698b739c 231-236
+weed/command/worker_runtime.go
+  s_a8b72d4596d4f3::t_46571050ac71b5 202-205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "32654f5453f04d72a457d36d287935fc5654a291",
+  "prompts": {},
+  "sessions": {
+    "s_a8b72d4596d4f3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb1b0-1a5a-7682-a195-3b394643820e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
