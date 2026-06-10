@@ -1,0 +1,21 @@
+weed/server/master_grpc_server_cluster.go
+  s_a8b72d4596d4f3::t_66b4e91fb9c123 41
+weed/server/master_grpc_server_cluster_test.go
+  s_a8b72d4596d4f3::t_06c08f5bbb7138 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "376e9b6411e0fc8038b3db616341b9df136cb619",
+  "prompts": {},
+  "sessions": {
+    "s_a8b72d4596d4f3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb1b0-1a5a-7682-a195-3b394643820e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
