@@ -1,0 +1,23 @@
+weed/command/filer_copy_test.go
+  s_a8b72d4596d4f3::t_76091817b16444 1-3,5-36,39-40
+  s_a8b72d4596d4f3::t_02b2a53acb49b8 37-38
+  s_a8b72d4596d4f3::t_5cb68466e2f91f 4
+weed/command/filer_copy.go
+  s_a8b72d4596d4f3::t_56fe62bea0f31f 272-276
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "8d9048ddb5829d65834d65140b52343397de8505",
+  "prompts": {},
+  "sessions": {
+    "s_a8b72d4596d4f3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb1b0-1a5a-7682-a195-3b394643820e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
