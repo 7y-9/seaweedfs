@@ -1,0 +1,21 @@
+weed/mount/meta_cache/id_mapper.go
+  s_a8b72d4596d4f3::t_ac27e2f579cf56 85-88,90,95
+weed/mount/meta_cache/id_mapper_test.go
+  s_a8b72d4596d4f3::t_b3305cd434226f 1-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "d866fc3a16138b9a48f2cae40a3b6ce9e4a2fe18",
+  "prompts": {},
+  "sessions": {
+    "s_a8b72d4596d4f3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb1b0-1a5a-7682-a195-3b394643820e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
