@@ -1,0 +1,21 @@
+weed/iam/sts/session_claims_test.go
+  s_a8b72d4596d4f3::t_ab58027c8c6148 7,232-245
+weed/iam/sts/token_utils.go
+  s_a8b72d4596d4f3::t_e3862c0c84b8b1 86-94,97-98,102-111
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "4777fb096ff57e676ad16637c81dc530b4f9f8b5",
+  "prompts": {},
+  "sessions": {
+    "s_a8b72d4596d4f3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb1b0-1a5a-7682-a195-3b394643820e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
