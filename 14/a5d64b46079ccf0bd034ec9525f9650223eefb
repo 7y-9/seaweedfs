@@ -1,0 +1,22 @@
+weed/command/maintenance_capabilities.go
+  s_a8b72d4596d4f3::t_741e8e1e1ac13f 39
+weed/command/maintenance_capabilities_test.go
+  s_a8b72d4596d4f3::t_10be07e46a4b53 1-8,11-17
+  s_a8b72d4596d4f3::t_0b6dfbb768411d 9-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "14a5d64b46079ccf0bd034ec9525f9650223eefb",
+  "prompts": {},
+  "sessions": {
+    "s_a8b72d4596d4f3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb1b0-1a5a-7682-a195-3b394643820e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
