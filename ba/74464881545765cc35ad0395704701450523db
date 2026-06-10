@@ -1,0 +1,21 @@
+weed/util/buckets_test.go
+  s_a8b72d4596d4f3::t_e44b4745401d43 52-59
+weed/util/buckets.go
+  s_a8b72d4596d4f3::t_683886cb474009 10-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "ba74464881545765cc35ad0395704701450523db",
+  "prompts": {},
+  "sessions": {
+    "s_a8b72d4596d4f3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb1b0-1a5a-7682-a195-3b394643820e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
