@@ -1,0 +1,21 @@
+weed/shell/command_s3_circuitbreaker_test.go
+  s_a8b72d4596d4f3::t_663167593297c5 293-322
+weed/shell/command_s3_circuitbreaker.go
+  s_a8b72d4596d4f3::t_a43ab13f1abf96 313,322,362-367,369
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "b35821b7030318d1f2c448ca5203f1f96bd87c65",
+  "prompts": {},
+  "sessions": {
+    "s_a8b72d4596d4f3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb1b0-1a5a-7682-a195-3b394643820e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
