@@ -1,0 +1,21 @@
+weed/storage/types/volume_disk_type.go
+  s_a8b72d4596d4f3::t_9af79c36fbb490 22
+weed/storage/types/volume_disk_type_test.go
+  s_a8b72d4596d4f3::t_f8e21662669283 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "1b895e00b06187e8d3c91b30c8c13cd5ac59624e",
+  "prompts": {},
+  "sessions": {
+    "s_a8b72d4596d4f3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb1b0-1a5a-7682-a195-3b394643820e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
