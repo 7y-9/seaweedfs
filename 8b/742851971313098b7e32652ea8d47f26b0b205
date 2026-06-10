@@ -1,0 +1,21 @@
+weed/shell/command_s3_anonymous_set.go
+  s_a8b72d4596d4f3::t_aaf915dc6941db 77-79,81,102-123
+weed/shell/command_s3_anonymous_set_test.go
+  s_a8b72d4596d4f3::t_bd1e0c9849c92d 1-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "8b742851971313098b7e32652ea8d47f26b0b205",
+  "prompts": {},
+  "sessions": {
+    "s_a8b72d4596d4f3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb1b0-1a5a-7682-a195-3b394643820e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
