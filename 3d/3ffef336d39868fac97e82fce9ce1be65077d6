@@ -1,0 +1,21 @@
+weed/util/path_filter_test.go
+  s_a8b72d4596d4f3::t_27ad462c8c67a8 169-176
+weed/util/path_filter.go
+  s_a8b72d4596d4f3::t_84acefbfcdfd3d 11-13,22-23,29,31,34,41,54,59,101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "3d3ffef336d39868fac97e82fce9ce1be65077d6",
+  "prompts": {},
+  "sessions": {
+    "s_a8b72d4596d4f3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eb1b0-1a5a-7682-a195-3b394643820e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
