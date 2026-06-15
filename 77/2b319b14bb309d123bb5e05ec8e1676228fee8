@@ -1,0 +1,19 @@
+weed/util/chunk_cache/chunk_cache_in_memory.go
+  s_784cf3ee9f8e83::t_9a93f5935c8ba9 24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "772b319b14bb309d123bb5e05ec8e1676228fee8",
+  "prompts": {},
+  "sessions": {
+    "s_784cf3ee9f8e83": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ec92b-ad06-71a3-b4aa-859871fba8b6",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
