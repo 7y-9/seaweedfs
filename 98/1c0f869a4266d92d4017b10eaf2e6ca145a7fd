@@ -1,0 +1,19 @@
+weed/admin/dash/config_persistence.go
+  s_784cf3ee9f8e83::t_ea54c6ba27fa7f 81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "981c0f869a4266d92d4017b10eaf2e6ca145a7fd",
+  "prompts": {},
+  "sessions": {
+    "s_784cf3ee9f8e83": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ec92b-ad06-71a3-b4aa-859871fba8b6",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
