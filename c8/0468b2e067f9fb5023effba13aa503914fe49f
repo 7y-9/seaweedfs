@@ -1,0 +1,19 @@
+weed/util/file_util.go
+  s_784cf3ee9f8e83::t_b8c7a0f5b1efd9 65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "c80468b2e067f9fb5023effba13aa503914fe49f",
+  "prompts": {},
+  "sessions": {
+    "s_784cf3ee9f8e83": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ec92b-ad06-71a3-b4aa-859871fba8b6",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
