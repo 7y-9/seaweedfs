@@ -1,0 +1,26 @@
+weed/s3api/chunked_reader_v4.go
+  s_c6e4e2ed907a85::t_3c834c39032f70 142,145-159
+weed/s3api/chunked_reader_v4_test.go
+  s_c6e4e2ed907a85::t_8ae88c3f1628f6 43-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "5d07f3d22b415629335152bca4a1e3f3340631d4",
+  "prompts": {},
+  "humans": {
+    "h_390498540f4af8": {
+      "author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  },
+  "sessions": {
+    "s_c6e4e2ed907a85": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ed9e4-fcc5-7462-851b-03bf1c7c4a66",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
