@@ -1,0 +1,26 @@
+weed/s3api/s3api_acl_helper.go
+  s_c6e4e2ed907a85::t_6df9c818ba7fd7 4,7,30-38,40
+weed/s3api/s3api_acl_helper_test.go
+  s_c6e4e2ed907a85::t_04ee39b91a7a14 1-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "c0a384dd0644f4ed3688f76b40184e907567cb07",
+  "prompts": {},
+  "humans": {
+    "h_390498540f4af8": {
+      "author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  },
+  "sessions": {
+    "s_c6e4e2ed907a85": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ed9e4-fcc5-7462-851b-03bf1c7c4a66",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
