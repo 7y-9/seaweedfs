@@ -1,0 +1,26 @@
+weed/s3api/s3api_object_routed_write_test.go
+  s_c6e4e2ed907a85::t_29e4b02952241f 158-176
+weed/s3api/s3api_object_handlers_put.go
+  s_c6e4e2ed907a85::t_c4fcfd20558550 1991-1992
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "b63d50ded433d59d28700c72d3ef925007136bfe",
+  "prompts": {},
+  "humans": {
+    "h_390498540f4af8": {
+      "author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  },
+  "sessions": {
+    "s_c6e4e2ed907a85": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ed9e4-fcc5-7462-851b-03bf1c7c4a66",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
