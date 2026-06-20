@@ -1,0 +1,27 @@
+weed/s3api/policy_engine/engine_test.go
+  s_c6e4e2ed907a85::t_561e62f82d0494 228-251
+weed/s3api/policy_engine/conditions.go
+  s_c6e4e2ed907a85::t_44adc01d4ba265 656
+  s_c6e4e2ed907a85::t_f45ea664f054f0 176-184,657
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "1476a3352d960e566b58b147474e143dda33cf56",
+  "prompts": {},
+  "humans": {
+    "h_390498540f4af8": {
+      "author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  },
+  "sessions": {
+    "s_c6e4e2ed907a85": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ed9e4-fcc5-7462-851b-03bf1c7c4a66",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
