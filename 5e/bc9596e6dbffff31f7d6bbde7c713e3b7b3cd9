@@ -1,0 +1,19 @@
+weed/s3api/auth_signature_v4_test.go
+  s_2d4ba77f03636f::t_4d6e5d7c5a9705 114-146,149-160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "5ebc9596e6dbffff31f7d6bbde7c713e3b7b3cd9",
+  "prompts": {},
+  "sessions": {
+    "s_2d4ba77f03636f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eee34-fda2-7083-9575-66f9a9a63916",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
