@@ -1,0 +1,25 @@
+weed/shell/command_volume_mark_test.go
+  s_3e21f6b2c60099::t_b1ee2d005e156c 70
+  s_3e21f6b2c60099::t_1b83ce6aa9cdb6 114-122
+  s_3e21f6b2c60099::t_cb5a18fc9f8dde 1-69,71-113,123-133
+weed/shell/command_volume_mark.go
+  s_3e21f6b2c60099::t_e27a74f212a0e0 48,50-51,53-56,70
+  s_3e21f6b2c60099::t_ff01157ec2606b 73
+  s_3e21f6b2c60099::t_d6b5724e29faac 9,26,28-29,42,49,52,57-58,66-69,71-72,74-76,81-97,104-140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "b2048e8f75a6ae4a521bcc9f241ec62f027f509f",
+  "prompts": {},
+  "sessions": {
+    "s_3e21f6b2c60099": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef510-93e5-7773-9617-d058711258f4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
