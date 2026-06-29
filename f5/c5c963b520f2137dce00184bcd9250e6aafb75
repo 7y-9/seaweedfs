@@ -1,0 +1,21 @@
+weed/shell/command_volume_list_test.go
+  s_1dd56a191ecde6::t_689ac930b44900 197-224
+weed/shell/command_volume_list.go
+  s_1dd56a191ecde6::t_2a6d54a401df63 227,233-235,237,253,260-262,264
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "f5c5c963b520f2137dce00184bcd9250e6aafb75",
+  "prompts": {},
+  "sessions": {
+    "s_1dd56a191ecde6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f12b2-03af-72f3-b751-87d74a7024ee",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
