@@ -1,0 +1,21 @@
+weed/server/filer_server_handlers_write_autochunk_test.go
+  s_b0f08245abe496::t_641c83b525bb4c 1-94
+weed/server/filer_server_handlers_write_autochunk.go
+  s_b0f08245abe496::t_c5197223f9e884 234-237,280-286
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "c9ef9181e95623e61a2e0bee96a32c248a1aa2de",
+  "prompts": {},
+  "sessions": {
+    "s_b0f08245abe496": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f2719-4051-7863-b970-9da2fa202549",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
