@@ -1,0 +1,21 @@
+weed/security/jwt.go
+  s_d14d8ccac3a98a::t_6ab230242a0d8e 42-43,142-143
+weed/security/jwt_test.go
+  s_d14d8ccac3a98a::t_7776e42ecf1068 1-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6bf51d561cf2addeb38c54c3d00ad5b0e80dec76",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
