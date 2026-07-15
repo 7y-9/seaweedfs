@@ -1,0 +1,21 @@
+weed/security/tls_sni_test.go
+  s_d14d8ccac3a98a::t_39a2b68c906d4b 75-92
+weed/security/tls.go
+  s_d14d8ccac3a98a::t_fef6cf54868555 268-270,273,276
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a7f1e3ba1c2dcc88d4004e29b6c3f1e626e975a1",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
