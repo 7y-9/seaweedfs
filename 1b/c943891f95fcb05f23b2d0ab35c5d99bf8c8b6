@@ -1,0 +1,28 @@
+weed/s3api/s3api_object_retention_test.go
+  s_d14d8ccac3a98a::t_f2af9af3914e63 14,24-46
+  s_d14d8ccac3a98a::t_ad2355a1848a48 4,17-23,47-48
+  s_d14d8ccac3a98a::t_8cc6e7292f48d6 49
+weed/s3api/s3api_object_handlers_retention.go
+  s_d14d8ccac3a98a::t_ba41d4dfe6acfb 51-52,99-100
+weed/s3api/s3api_object_retention.go
+  s_d14d8ccac3a98a::t_3fc1bfb0eaca8c 246-248
+  s_d14d8ccac3a98a::t_ba41d4dfe6acfb 210-219
+weed/s3api/s3api_object_handlers_legal_hold.go
+  s_d14d8ccac3a98a::t_ba41d4dfe6acfb 48-49,88-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1bc943891f95fcb05f23b2d0ab35c5d99bf8c8b6",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
