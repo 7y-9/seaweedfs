@@ -1,0 +1,22 @@
+weed/shell/command_volume_configure_replication.go
+  s_d14d8ccac3a98a::t_bd52ed577c9f54 106,108-110,112
+  s_d14d8ccac3a98a::t_e28c65af738fa3 76,86,88,104,107,111
+weed/shell/command_volume_configure_replication_test.go
+  s_d14d8ccac3a98a::t_0577a743e09909 1-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2ed95236e948840eacf06f5e8c2d992647944f6a",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
