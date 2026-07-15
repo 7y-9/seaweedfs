@@ -1,0 +1,23 @@
+weed/admin/maintenance/maintenance_queue_test.go
+  s_d14d8ccac3a98a::t_f3e47e02813b4c 700-701,703-704,707-709,711-720,723,726-728
+  s_d14d8ccac3a98a::t_c91cc5dc05c012 702,705-706,710,721-722,724-725
+weed/admin/maintenance/maintenance_manager.go
+  s_d14d8ccac3a98a::t_c91cc5dc05c012 626
+  s_d14d8ccac3a98a::t_1fc01d77c9093a 596,600-604,606-608,610-614,616-617,619-623,627-628
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c72dbf4738bc5daa5ea0d5a924a924864aa09380",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
