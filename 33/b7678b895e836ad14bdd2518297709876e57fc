@@ -1,0 +1,21 @@
+weed/shell/command_fs_meta_change_volume_id.go
+  s_d14d8ccac3a98a::t_e18ecf433c0ffa 66-68
+weed/shell/command_fs_meta_change_volume_id_test.go
+  s_d14d8ccac3a98a::t_8e7d6121ab437c 1-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "33b7678b895e836ad14bdd2518297709876e57fc",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
