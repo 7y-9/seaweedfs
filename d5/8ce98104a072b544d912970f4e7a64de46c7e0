@@ -1,0 +1,21 @@
+weed/storage/needle/volume_id_test.go
+  s_d14d8ccac3a98a::t_089e3a2ad928f8 13-16
+weed/storage/needle/volume_id.go
+  s_d14d8ccac3a98a::t_195379ab88bce9 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d58ce98104a072b544d912970f4e7a64de46c7e0",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
