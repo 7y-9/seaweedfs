@@ -1,0 +1,22 @@
+weed/s3api/cors/cors.go
+  s_d14d8ccac3a98a::t_d034a1301609de 172-174,179-185,194-195
+  s_d14d8ccac3a98a::t_93a1267da5fb94 196
+weed/s3api/cors/cors_test.go
+  s_d14d8ccac3a98a::t_e13d2b6ce3792a 500-531
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6a37f10f3cf5cf6ca353963d43372a20c558b3ac",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
