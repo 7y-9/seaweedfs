@@ -1,0 +1,22 @@
+weed/admin/maintenance/maintenance_manager_test.go
+  s_d14d8ccac3a98a::t_08a50196abd04e 84-86
+  s_d14d8ccac3a98a::t_f470c1e1ecdf74 73-83,87-88
+weed/admin/maintenance/maintenance_manager.go
+  s_d14d8ccac3a98a::t_08a50196abd04e 104,109-111,118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "751e3ad768793e53ffc8a65ccac350eed55f6b4b",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
