@@ -1,0 +1,22 @@
+weed/security/guard.go
+  s_d14d8ccac3a98a::t_e0beca88bfcfa9 145
+  s_d14d8ccac3a98a::t_c4e2e580a29fef 146-147,185-187
+weed/security/guard_whitelist_test.go
+  s_d14d8ccac3a98a::t_3fc32dc4f7a1c7 51-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3684a44c1b5449128f69a9025a2e1a6b116ae318",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
