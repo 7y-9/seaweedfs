@@ -1,0 +1,27 @@
+weed/s3api/tags.go
+  s_d14d8ccac3a98a::t_9af7ebdc7f53af 5,7-8,17-20,36-44
+  s_d14d8ccac3a98a::t_359f379b4a41e9 45-46
+weed/s3api/s3api_bucket_tagging_handlers.go
+  s_d14d8ccac3a98a::t_9af7ebdc7f53af 5,58,61-65
+weed/s3api/s3api_object_handlers_tagging.go
+  s_d14d8ccac3a98a::t_9af7ebdc7f53af 6,120,123-127
+weed/s3api/tags_test.go
+  s_d14d8ccac3a98a::t_1b80423c9fe021 4-7,11-33
+  s_d14d8ccac3a98a::t_978b0fe350eae8 34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6bb12654c58e3c6fa74b38113751c256cd9f409d",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
