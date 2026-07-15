@@ -1,0 +1,25 @@
+weed/s3api/s3api_object_metadata_version_errors_test.go
+  s_d14d8ccac3a98a::t_a98b4c9c1e4307 1-96
+weed/s3api/s3api_object_versioning.go
+  s_d14d8ccac3a98a::t_b0990d89133ac1 1069-1075
+weed/s3api/s3api_object_handlers_acl.go
+  s_d14d8ccac3a98a::t_ab4f991b46bdb8 62,169
+weed/s3api/s3api_object_handlers_tagging.go
+  s_d14d8ccac3a98a::t_0dcba1c3ed0814 61,170,313
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9b3580d86594fdd1f6d225bac5130cabcd280e39",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
