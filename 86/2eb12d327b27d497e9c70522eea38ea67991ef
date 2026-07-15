@@ -1,0 +1,23 @@
+weed/s3api/policy_engine/conditions.go
+  s_d14d8ccac3a98a::t_791aa3e562eb44 5,225,227-229,231-234,245-246,251,266,281,296,311,326
+  s_d14d8ccac3a98a::t_dc715083c98ffa 226,230,235-244
+weed/s3api/policy_engine/engine_test.go
+  s_d14d8ccac3a98a::t_70fc24adafebe3 228-240,242-256
+  s_d14d8ccac3a98a::t_339c1c48ed4868 241
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "862eb12d327b27d497e9c70522eea38ea67991ef",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
