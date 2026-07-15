@@ -1,0 +1,21 @@
+weed/shell/command_fs_configure.go
+  s_d14d8ccac3a98a::t_3f7ae2c4ae52a5 80-82
+weed/shell/command_fs_configure_test.go
+  s_d14d8ccac3a98a::t_046a2699e02249 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "27013c68c51ee001b31cc3b52f515dad28f422e4",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
