@@ -1,0 +1,22 @@
+weed/server/filer_grpc_server_rename.go
+  s_d14d8ccac3a98a::t_45110e488698b6 80-85
+  s_d14d8ccac3a98a::t_9ad299ff411a50 115
+weed/server/filer_grpc_server_rename_test.go
+  s_d14d8ccac3a98a::t_345a56856cc357 27-34,50-61,190-208,508-533
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "15f1f2d74fc5dbc40713a6e2dacf0afcc9b0a6c9",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
