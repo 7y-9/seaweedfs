@@ -1,0 +1,21 @@
+weed/mq/kafka/protocol/request_validation_test.go
+  s_d14d8ccac3a98a::t_a441231ae44146 1-49
+weed/mq/kafka/protocol/offset_management.go
+  s_d14d8ccac3a98a::t_3b20e6d0cc3574 478,480,483,489,496,501,507,510
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4d792f3421560774341e131ede54d64dea01ed38",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
