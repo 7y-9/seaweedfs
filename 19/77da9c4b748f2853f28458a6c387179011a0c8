@@ -1,0 +1,22 @@
+weed/pb/filer_pb/filer_pb_helper_test.go
+  s_d14d8ccac3a98a::t_6e23336c59c907 4,8-36
+  s_d14d8ccac3a98a::t_df23f0bdb4abbd 37
+weed/pb/filer_pb/filer_pb_helper.go
+  s_d14d8ccac3a98a::t_0013285b9cb0f8 90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1977da9c4b748f2853f28458a6c387179011a0c8",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
