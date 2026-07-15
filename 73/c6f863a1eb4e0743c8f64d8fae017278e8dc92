@@ -1,0 +1,24 @@
+weed/topology/topology.go
+  s_d14d8ccac3a98a::t_8f3bb4424de99f 404-410
+  s_d14d8ccac3a98a::t_e7f1a311f3ba24 426
+weed/topology/topology_test.go
+  s_d14d8ccac3a98a::t_1ba9fa481e10dd 49-75
+  s_d14d8ccac3a98a::t_596e76da4086e7 4,19-47
+  s_d14d8ccac3a98a::t_abed724443e4c0 48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "73c6f863a1eb4e0743c8f64d8fae017278e8dc92",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
