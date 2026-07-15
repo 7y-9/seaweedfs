@@ -1,0 +1,30 @@
+weed/s3api/s3tables/handler_rename_test.go
+  s_d14d8ccac3a98a::t_a17ab3a3fba756 67,69-74,78
+weed/s3api/s3tables/manager_test.go
+  s_d14d8ccac3a98a::t_065b1a97ca8aee 5,15-57
+  s_d14d8ccac3a98a::t_db390bc446b895 58
+weed/s3api/s3tables/handler_view.go
+  s_d14d8ccac3a98a::t_c93713c5aff2d4 318,321,369-371,380,388
+weed/s3api/s3tables/handler_bucket_get_list_delete.go
+  s_d14d8ccac3a98a::t_c93713c5aff2d4 116-117,121,203-207,213,228
+weed/s3api/s3tables/handler_namespace.go
+  s_d14d8ccac3a98a::t_c93713c5aff2d4 460-461,465,526-530,535,549
+weed/s3api/s3tables/handler_table.go
+  s_d14d8ccac3a98a::t_c93713c5aff2d4 868,871,938-940,949,957,976,1016,1021-1027
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d94e7c6f8f3485a2b5061b815f537bca7277a5f1",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
