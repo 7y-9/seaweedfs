@@ -1,0 +1,21 @@
+weed/mq/kafka/schema/registry_cache_isolation_test.go
+  s_d14d8ccac3a98a::t_9793b3050e4991 1-32
+weed/mq/kafka/schema/registry_client.go
+  s_d14d8ccac3a98a::t_b0a9003dafd04c 86,88,133-134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "217543fdb2ad6b061d58a369dd44380e18243f96",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
