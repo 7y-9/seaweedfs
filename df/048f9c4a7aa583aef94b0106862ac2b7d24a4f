@@ -1,0 +1,21 @@
+weed/util/wildcard/wildcard_matcher_test.go
+  s_d14d8ccac3a98a::t_5e43182a808479 192-221
+weed/util/wildcard/wildcard_matcher.go
+  s_d14d8ccac3a98a::t_a58b42a4647ace 78-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "df048f9c4a7aa583aef94b0106862ac2b7d24a4f",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
