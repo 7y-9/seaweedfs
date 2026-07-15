@@ -1,0 +1,21 @@
+weed/storage/backend/s3_backend/s3_backend_test.go
+  s_d14d8ccac3a98a::t_b28ced8e246519 1-43
+weed/storage/backend/s3_backend/s3_backend.go
+  s_d14d8ccac3a98a::t_46482e202548d1 133,166
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5d203ef39ff802e18170d01aaf66182707e1a4ff",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
