@@ -1,0 +1,23 @@
+weed/storage/needle/needle_read_tail_test.go
+  s_d14d8ccac3a98a::t_a7d53f1ec0a17c 4,55-61
+  s_d14d8ccac3a98a::t_9be161f14af058 62-63
+weed/storage/needle/needle_read.go
+  s_d14d8ccac3a98a::t_378dae46bb3fd2 227-233,236-237,241,244-248
+  s_d14d8ccac3a98a::t_44dd7596b4313b 238-240,242-243
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "59e698b2657d1fba569c3424d221b40631913046",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
