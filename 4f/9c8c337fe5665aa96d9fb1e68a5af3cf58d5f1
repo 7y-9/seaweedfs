@@ -1,0 +1,21 @@
+weed/s3api/s3api_object_retention_test.go
+  s_d14d8ccac3a98a::t_b3f128e0dd6cb7 371-382
+weed/s3api/s3api_object_retention.go
+  s_d14d8ccac3a98a::t_ea3f134bd96af8 4,8,20-21,154-162,166-178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4f9c8c337fe5665aa96d9fb1e68a5af3cf58d5f1",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
