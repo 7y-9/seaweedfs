@@ -1,0 +1,24 @@
+weed/s3api/s3tables/handler_rename_test.go
+  s_d14d8ccac3a98a::t_bb9fd65b295627 27-29,33-36,96-98
+weed/s3api/s3tables/handler_delete_decouple_test.go
+  s_d14d8ccac3a98a::t_bb9fd65b295627 6-7,14-45
+  s_d14d8ccac3a98a::t_b0e06e79a26083 46
+weed/s3api/s3tables/handler_bucket_get_list_delete.go
+  s_d14d8ccac3a98a::t_7959ca40cff27b 356,359
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0ea1eee2af15f33952f2019454b347f3eb684a49",
+  "prompts": {},
+  "sessions": {
+    "s_d14d8ccac3a98a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6650-1f54-71d2-90c5-d5780f428699",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lianyu.sun <lianyu.sun@ly.com>"
+    }
+  }
+}
