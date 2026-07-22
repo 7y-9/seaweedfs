@@ -19,7 +19,7 @@ func TestResolveEntryMimePrefersStoredMime(t *testing.T) {
 	}
 }
 
-func TestResolveEntryMimePrefersStoredMimeMalformedParameter(t *testing.T) {
+func TestResolveEntryMimeMalformedStoredMimeFallsBackToFilename(t *testing.T) {
 	entry := &filer_pb.Entry{
 		Name: "report.txt",
 		Attributes: &filer_pb.FuseAttributes{
@@ -27,8 +27,8 @@ func TestResolveEntryMimePrefersStoredMimeMalformedParameter(t *testing.T) {
 		},
 	}
 
-	if got := ResolveEntryMime(entry); got != "application/pdf" {
-		t.Fatalf("ResolveEntryMime() = %q, want %q", got, "application/pdf")
+	if got := ResolveEntryMime(entry); got != "text/plain" {
+		t.Fatalf("ResolveEntryMime() = %q, want %q", got, "text/plain")
 	}
 }
 
@@ -64,5 +64,18 @@ func TestResolveEntryMimeWhitespaceMimeFallsBackToFilename(t *testing.T) {
 
 	if got := ResolveEntryMime(entry); got != "application/zip" {
 		t.Fatalf("ResolveEntryMime() = %q, want %q", got, "application/zip")
+	}
+}
+
+func TestResolveEntryMimeInvalidStoredMimeFallsBackToFilename(t *testing.T) {
+	entry := &filer_pb.Entry{
+		Name: "photo.png",
+		Attributes: &filer_pb.FuseAttributes{
+			Mime: "x/<img src=x onerror=alert(1)>",
+		},
+	}
+
+	if got := ResolveEntryMime(entry); got != "image/png" {
+		t.Fatalf("ResolveEntryMime() = %q, want %q", got, "image/png")
 	}
 }
